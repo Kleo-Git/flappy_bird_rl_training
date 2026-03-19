@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Environment setup :-
 
 Setup your dqn evn using Anaconda : conda create -n dqnenv
@@ -42,3 +43,7 @@ To play the game (human mode), run the following command: flappy_bird_gymnasium
 To see a random agent playing, add an argument to the command: flappy_bird_gymnasium --mode random
 
 To see a Deep Q Network agent playing, add an argument to the command: flappy_bird_gymnasium --mode dqn
+=======
+# flappy_bird_rl_training
+Using a variety of RL approaches to train an agent how to play flappy bird
+>>>>>>> 792e851d07eafda1099800a3bef14f00f2b9b5e2
